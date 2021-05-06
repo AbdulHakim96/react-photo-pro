@@ -118,7 +118,7 @@ input {
 .loader {
   border: 16px solid #f3f3f3;
   /* Light grey */
-  border-top: 16px solid #051c33;
+  border-top: 16px solid #062341;
   /* Blue */
   border-radius: 50%;
   width: 120px;
@@ -185,16 +185,5 @@ input {
     z-index: 9999;
   }
 
-  .forkongithub a {
-    width: 200px;
-    position: absolute;
-    top: 60px;
-    right: -60px;
-    transform: rotate(45deg);
-    -webkit-transform: rotate(45deg);
-    -ms-transform: rotate(45deg);
-    -moz-transform: rotate(45deg);
-    -o-transform: rotate(45deg);
-    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.8);
-  }
+ 
 }
