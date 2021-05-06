@@ -50,10 +50,11 @@ a {
   padding: 0px 15px;
   border-radius: 0 0.35em 0.35em 0;
   cursor: pointer;
+  background-color: rgba(216, 40, 9, 0.801);
 }
 
 .active {
-  background-color: #051c33;
+  background-color: #082746;
   cursor: pointer;
 }
 
@@ -75,7 +76,7 @@ input {
 
 .main-nav a {
   display: block;
-  background: #051c33;
+  background: #099b09;
   border-radius: 3px;
   padding: 5px;
   color: #fff;
@@ -83,7 +84,7 @@ input {
 
 .main-nav .active,
 .main-nav a:hover {
-  background-color: #051c33;
+  background-color: #099b09;
 }
 
 .photo-container ul {
